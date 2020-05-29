@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kontak telepon</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="masukan_nama_anda">Masukan Nama Anda</string>
+    <string name="masukan_nama_belakang_anda">Masukan Nama Belakang Anda</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="telepon">Telepon</string>
+    <string name="organisasi">Organisasi</string>
+    <string name="email">Email</string>
+    <string name="batal">BATAL</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit">Edit</string>
+    <string name="sms">SMS</string>
+    <string name="delete">Delete</string>
+    <string name="kontak_telepon_adrian">Kontak Telepon Adrian</string>
+    <string-array name="organisasi_spinner">
+        <item>POLRI</item>
+        <item>TNI</item>
+        <item>BNPB</item>
+        <item>KPK</item>
+        <item>KPU</item>
+    </string-array>
+</resources>
